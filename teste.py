@@ -1,3 +1,4 @@
+#exercitii 2
 bec = 'nedefinit'
 retea = 'nedefinit'
 intrerupator = 'nedefinit'
