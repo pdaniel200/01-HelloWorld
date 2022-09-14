@@ -171,5 +171,4 @@ for word in words:  # ne uitam in lista splituita words si mapam cu dictionarul
     output += smiley_mapping.get(word, word) + ' '
 print(output)
 
-
 print('------- #  -------------------')

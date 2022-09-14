@@ -6,7 +6,9 @@ for number in numbers:
 #print(max)'''
 
 print('------- # MODULE V2 -------------------')
-#number = ''
+
+
+# number = ''
 
 
 def find_max(numbers):
@@ -15,5 +17,3 @@ def find_max(numbers):
         if number > maximum:
             maximum = number
     return maximum
-
-
