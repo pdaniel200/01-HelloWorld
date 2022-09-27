@@ -52,7 +52,7 @@ print('---cum gasim cel mai mare numar dintr-o lista V1-----------------------')
 
 # cum gasim cel mai mare numar dintr-o lista
 listlargest = [5, 9, 8, 2, 0, 22]
-print(max(listlargest))
+print(f'V1 Cel mai mare nr din lista este: {max(listlargest)}')
 
 print('---cum gasim cel mai mare numar dintr-o lista V2-----------------------')
 
@@ -61,7 +61,7 @@ maxnr = listlargest[0]
 for test_number in listlargest:
     if test_number > maxnr:
         maxnr = test_number
-print(maxnr)
+print(f'V2 Cel mai mare nr din lista este: {maxnr}')
 
 print('---2D LISTS - liste 2D - cum accesam un element dintr-o lista 2D-----------------------')
 
